@@ -1,0 +1,4 @@
+C:\Users\91865\Desktop\WCF_CRUD\WcfService\WcfService\bin\WcfService.dll
+C:\Users\91865\Desktop\WCF_CRUD\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\91865\Desktop\WCF_CRUD\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\91865\Desktop\WCF_CRUD\WcfService\WcfService\obj\Debug\WcfService.pdb
